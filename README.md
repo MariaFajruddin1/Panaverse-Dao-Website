@@ -1,4 +1,4 @@
-Limk  :  https://panaverse-website-o6a51awpc-mariafajruddin-gmailcom.vercel.app/
+Link  :  https://panaverse-website-o6a51awpc-mariafajruddin-gmailcom.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
